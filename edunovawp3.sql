@@ -43,6 +43,7 @@
 --prezime varchar(50),
 --email varchar(50),
 --oib char(11),
+bla bla zivote
 --iban varchar(50)
 
 --);
