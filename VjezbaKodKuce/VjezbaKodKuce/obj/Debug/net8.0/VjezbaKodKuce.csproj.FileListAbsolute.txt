@@ -1,0 +1,14 @@
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\bin\Debug\net8.0\VjezbaKodKuce.exe
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\bin\Debug\net8.0\VjezbaKodKuce.deps.json
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\bin\Debug\net8.0\VjezbaKodKuce.runtimeconfig.json
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\bin\Debug\net8.0\VjezbaKodKuce.dll
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\bin\Debug\net8.0\VjezbaKodKuce.pdb
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\VjezbaKodKuce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\VjezbaKodKuce.AssemblyInfoInputs.cache
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\VjezbaKodKuce.AssemblyInfo.cs
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\VjezbaKodKuce.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\VjezbaKodKuce.dll
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\refint\VjezbaKodKuce.dll
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\VjezbaKodKuce.pdb
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\VjezbaKodKuce.genruntimeconfig.cache
+C:\Users\Mihael\source\repos\VjezbaKodKuce\VjezbaKodKuce\obj\Debug\net8.0\ref\VjezbaKodKuce.dll
