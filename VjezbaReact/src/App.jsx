@@ -1,30 +1,25 @@
-
-import Umbrella from '/src/images/UmbrellaRE.svg'
-import './App.css'
+import Card from './Card.jsx' 
+import Card2 from './Card2.jsx'
+import Button from './Button/Button.jsx'
+import umbrellaSlika from './images/UmbrellaRE.svg'
+import Footer from './Footer.jsx'
 
 function App() {
-  
-
-  return (
+  return(
     <>
-      <div>
-        
-        <a href="https://react.dev" target="_blank">
-          <img src={Umbrella} className="logo react" alt="Umbrella logo" />
-        </a>
-      </div>
-      <h1>Umbrella Corporation</h1>
-      <div className="card">
-        
-        <p>
-          Six years have passed since that horrendous incident...
-        </p>
-      </div>
-      <p className="copyright">
-        &copy; {new Date() .getFullYear()} UMBRELLA CORPORATION
-      </p>
+    <h1 className='Naslov'>Umbrella Corporation</h1>
+    
+    <Card />
+    <img className='umbrella' src={umbrellaSlika} alt="umbrellaLogo"></img>
+    <Card2 />
+    <Button />
+    <Footer />
+    
+    
     </>
-  )
+  );
+
+ 
 }
 
 export default App
