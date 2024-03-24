@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 
 function Agent(propTypes){
     return(
@@ -7,6 +8,20 @@ function Agent(propTypes){
             <p>Agent: {propTypes.agent ? "Da" : "Ne"}</p>
         </div>
     );
+}
+Agent.propTypes={
+    ime: PropTypes.string,
+    starost: PropTypes.number,
+    agent: PropTypes.bool,
+
+
+}
+
+Agent.defaultProps={
+    ime: "nepoznato",
+    starost: 0,
+    agent: false,
+
 }
 
 export default Agent

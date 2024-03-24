@@ -15,6 +15,7 @@ function App() {
     <Card2 />
     <Button />
     <Agent ime="Leon" starost={27} agent={true}/>
+    <Agent ime="Ashley" starost={20} agent={false}/>
     <Footer />
     
     
